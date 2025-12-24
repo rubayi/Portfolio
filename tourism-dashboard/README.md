@@ -9,6 +9,17 @@ A real-time analytics dashboard for tourism business operations. Built with Reac
 
 ---
 
+## 🎯 Features
+
+- **📈 Revenue Analytics** - Daily, weekly, monthly revenue tracking with trend visualization
+- **📅 Booking Management** - Real-time booking status and calendar view
+- **📦 Inventory Tracking** - Tour packages, availability, and capacity management
+- **👥 Customer Insights** - Demographics, preferences, and booking patterns
+- **📊 Custom Reports** - Exportable reports in PDF and Excel formats
+- **🌓 Dark Mode** - Full dark/light theme support
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technology |
